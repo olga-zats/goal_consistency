@@ -1,0 +1,1 @@
+python evaluate.py data json/single_latent_ts_latent_gt_fc_cons_loss_2.5_gt_fts_cons_loss_2.5
