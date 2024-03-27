@@ -19,3 +19,29 @@ cd goal_consistency
 conda env create -f env.yml
 conda activate goal
 ```
+## Assembly101
+
+### Data
+ToDo
+
+### Training
+ToDo
+
+### Testing
+ToDo
+
+
+## COIN
+ToDo
+
+### Data
+ToDo
+
+### Features
+ToDo
+
+### Training
+ToDo
+
+### Testing
+ToDo
