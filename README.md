@@ -1,7 +1,7 @@
 Code for the paper 'Action Anticipation with Goal Consistency'.
 
-**Installation**
+## Installation
 
-**Assembly101** 
+## Assembly101 
 
-**Coin**
+## Coin
