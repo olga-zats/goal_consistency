@@ -115,13 +115,3 @@ python evaluate.py data json/single_latent_gt_fc_cons_loss_5.0
 ```
 
 
-
-## COIN
-
-### Data
-
-### Features
-
-### Training
-
-### Testing
